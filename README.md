@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EsinYilmazbilek
-- 👀 I’m interested in art and design.
 - 🌱 I’m currently learning programming via General Assembly.
 - 💞️ I’m looking to collaborate on future projects I will do.
 - 📫 How to reach me - here 
