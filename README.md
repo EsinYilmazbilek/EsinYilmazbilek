@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EsinYilmazbilek
-- 🌱 I’m currently learning programming via General Assembly.
+- 🌱 I’m undertaking an immersive 3-month Software Engineering bootcamp at General Assembly, London.
 - 💞️ I’m looking to collaborate on future projects I will do.
 - 📫 How to reach me - here 
 
