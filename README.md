@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsinYilmazbilek
 - 🌱 I’m currently undertaking an immersive 3-month Software Engineering bootcamp at General Assembly, London.
-- 🤝🏿 I’m graduating in January 2022 and looking forward to collaborate on future projects.
+- 🤝🏿 Graduating in January 2022 and looking forward to collaborate on future projects.
 - 📫 How to reach me - here 
 
 <!---
